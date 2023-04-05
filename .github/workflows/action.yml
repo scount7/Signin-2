@@ -1,0 +1,6 @@
+name: 'GLaDOS Bot Action with Telegram Notice'
+
+on:
+  push:
+  schedule:
+    - cron: '0 1 * * *'
