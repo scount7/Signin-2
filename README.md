@@ -16,6 +16,6 @@
     - a
 #### Configuration
  - Fork this repository:
-  **Remember: make ANY changes in your FORKED REPOSITORY, NOT THE ORIGINAL ONE!!!**
+    - **Remember: make ANY changes in your FORKED REPOSITORY, NOT THE ORIGINAL ONE!!!**
  - Enter the Settings Page of the repository
  - 
