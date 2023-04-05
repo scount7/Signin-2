@@ -1,4 +1,4 @@
-# GLaDOS-Bot-Action-with-Telegram-Notification
+# GLaDOS-Bot-Action-with-Telegram-Notice
 
  A Github-Action that can help you check in GlaDOS automatically with telegram notice.  
  
