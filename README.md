@@ -6,7 +6,7 @@
  
 ### Usage
 #### Preparation
- - Apply a bot on telegram at [BotFather](https://t.me/BotFather) and prepare its TOKEN:
+ - Apply a bot on telegram at [BotFather](https://t.me/BotFather) and remember its TOKEN:
     - You can follow the guidance provided by BotFather.
  - Get your telegram CHAT_ID at [RawDataBot](https://t.me/RawDataBot):
     - Touch the start button RawDataBot will send you a message, find the "chat" section and then find your "id" in it.
