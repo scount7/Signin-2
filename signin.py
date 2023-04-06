@@ -53,8 +53,9 @@ def get_result(cookie):
         res = f"时间：{day} （UTC+8）\n结果：签到失败。\n原因：{res}"
     with open("result.txt", mode="w", encoding="utf-8") as f:
         f.write(res)
-    return
+    return res
 
 if __name__ == "__main__":
     cookie = argv[1]
-    get_result(cookie)
+    res = get_result(cookie)
+    print(res)
