@@ -59,7 +59,6 @@ jobs:
     - name: Telegram notice
       env: 
         message: ${{ steps.read-result.outputs.content }}
-      run: echo $message
       uses: appleboy/telegram-action@master
       with:
         to: $CHAT_ID
