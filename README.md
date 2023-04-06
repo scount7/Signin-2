@@ -14,10 +14,12 @@
  - Get your cookie when you check in GLaDOS:
     - Open the sign in page on [GLaDOS](https://glados.one/console/checkin).
     - Press `F12` on your keyboard (for some laptop users, it may be `Fn`+`F12`) to open developer tools.
-    - Choose `Network` and refresh the page.
-    - 
+    - Choose `Network` tab and press the `Sign in` button on the website.
+    - Click one record and choose `Header` tab, scroll down and you can see your `cookie` in `Request Header` section. 
+    - **Remember: COPY THE VALUE OF YOUR COOKIE WITHOUT ITS NAME!!!**
 #### Configuration
  - Fork this repository:
     - **Remember: make ANY changes in your FORKED REPOSITORY, NOT THE ORIGINAL ONE!!!**
  - Enter the Settings Page of the repository
- - 
+ - Enter `` -> `` in ``
+ - Press 
