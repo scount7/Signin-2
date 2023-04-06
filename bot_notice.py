@@ -11,3 +11,6 @@ def notice():
         chat_id = int(CHAT_ID),
         text = res
     )
+
+if __name__ == "__main__":
+    notice()
