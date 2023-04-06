@@ -2,7 +2,7 @@ name: 'GLaDOS Bot Action with Telegram Notice'
 
 on:
   workflow_dispatch:
-  push:
+  # push:
   schedule:
     - cron: '30 1 * * *'
 
