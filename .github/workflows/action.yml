@@ -53,5 +53,5 @@ jobs:
     - name: Telegram notice
       run: |
         . ./.venv/bin/activate
-        python ./bot_notice "$BOT_TOKEN" "$CHAT_ID"
+        python ./bot_notice.py "$BOT_TOKEN" "$CHAT_ID"
 
