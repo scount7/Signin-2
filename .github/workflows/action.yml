@@ -48,7 +48,7 @@ jobs:
     - name: Sign in
       run: |
         . ./.venv/bin/activate
-        python ./signin.py $COOKIE
+        python ./signin.py "$COOKIE"
 
     - name: Read result
       id: read-result
@@ -60,9 +60,9 @@ jobs:
       env: 
         message: ${{ steps.read-result.outputs.content }}
       run: echo $message
-      # uses: appleboy/telegram-action@master
-        # with:
-          # to: $CHAT_ID
-          # token: $BOT_TOKEN
-          # message: $message
+      uses: appleboy/telegram-action@master
+        with:
+          to: $CHAT_ID
+          token: $BOT_TOKEN
+          message: $message
 
