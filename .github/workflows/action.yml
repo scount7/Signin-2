@@ -1,6 +1,7 @@
 name: 'GLaDOS Bot Action with Telegram Notice'
 
 on:
+  workflow_dispatch:
   push:
   schedule:
     - cron: '30 1 * * *'
@@ -49,9 +50,15 @@ jobs:
         . ./.venv/bin/activate
         python ./signin.py $COOKIE
 
+    - name: Read result
+      id: read-result
+      uses: juliangruber/read-file-action@v1
+      with:
+        path: ./result.txt
+
     - name: Telegram notice
       env: 
-        message: $(<result.txt)
+        message: ${{ steps.read-result.outputs.content }}
       run: echo $message
       # uses: appleboy/telegram-action@master
         # with:
