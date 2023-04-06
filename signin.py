@@ -57,6 +57,5 @@ def get_result(cookie):
 
 if __name__ == "__main__":
     cookie = argv[1]
-    print(argv)
     res = get_result(cookie)
     print(res)
