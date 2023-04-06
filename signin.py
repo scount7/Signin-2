@@ -43,7 +43,7 @@ def get_result(cookie):
     success = True
     day = get_today()
     try:
-        res = signin()(cookie)
+        res = signin(cookie)
     except Exception as e:
         success = False
         res = str(e)

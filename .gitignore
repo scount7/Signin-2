@@ -130,3 +130,6 @@ dmypy.json
 
 # VS Code workspaces
 *.code-workspace
+
+# signin result
+result.txt
