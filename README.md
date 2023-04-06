@@ -57,7 +57,7 @@
  
  ![9](https://user-images.githubusercontent.com/87631978/230322987-cc24350a-b96b-40a2-a97d-128a22adaf96.jpg)
 
- 4. Add three New Repository Secret: `BOT_TOKEN`, `CHAT_ID` and `COOKIE`  
+ 4. Add three `New Repository Secret`: `BOT_TOKEN`, `CHAT_ID` and `COOKIE`  
  
  <img width="912" alt="10" src="https://user-images.githubusercontent.com/87631978/230323335-36aa16ec-665d-45ed-b870-4981843cbd01.png">
 <img width="908" alt="11" src="https://user-images.githubusercontent.com/87631978/230323345-6502a29e-a88e-4b58-818d-8e0495b0e5d6.png">
