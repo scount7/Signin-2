@@ -2,7 +2,7 @@
 
  A Github-Action that can help you sign in GlaDOS automatically with telegram notice.  
  
- ~~For a README in Chinese, [click here](https://blog.fhyq-dhy.cloud/index.php/tg_bot/44.html).~~ **NOT FINISHED YET**
+ ~~For a README in Chinese, [click here](https://blog.fhyq-dhy.cloud/index.php/tg_bot/44.html).~~ **NOT FINISHED YET.**
  
  
 ### Usage
@@ -21,7 +21,7 @@
 
  2. Get your telegram `CHAT_ID` at [RawDataBot](https://t.me/RawDataBot):  
  
-    - Touch the start button RawDataBot will send you a message, find the `chat` section and then find your `id` in it.  
+    - Touch the start button and RawDataBot will send you a message, find the `from` or `chat` section and then find your `id` in it.  
     
     ![4](https://user-images.githubusercontent.com/87631978/230319269-c9bd5220-472b-4be2-a00b-62ff94fbc9ab.jpg)
 
