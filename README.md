@@ -68,7 +68,3 @@
  - And the Action will always run at 9:30 a.m.(GMT+8:00) automatically.  
  
  ![13](https://user-images.githubusercontent.com/87631978/230326733-2c9cdc45-f6a1-4c40-bf25-e3d1d90fd42c.jpg)
-
-
-### Notice
- - You may receive an email from Github when this Github Action runs, but the email won't show you the exact result. Thus, it's highly recommended to use a telegram bot to receive the result.
