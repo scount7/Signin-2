@@ -10,6 +10,8 @@ def get_today():
 
 
 def signin(cookie):
+    print("signing in...")
+    
     # 创建一个session,作用会自动保存cookie
     session = requests.session()
     # 点签到之后的页

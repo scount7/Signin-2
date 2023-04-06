@@ -11,6 +11,7 @@ def notice():
         chat_id = int(CHAT_ID),
         text = res
     )
+    print("notice sent successfully.")
 
 if __name__ == "__main__":
     notice()
