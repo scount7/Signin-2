@@ -2,7 +2,8 @@
 
  A Github Action that can help you sign in GlaDOS automatically with telegram notice.  
  
- ~~For a README in Chinese, [click here](https://blog.fhyq-dhy.cloud/index.php/tg_bot/44.html).~~ **NOT FINISHED YET.**
+ ~~For a README in Chinese, [click here](https://blog.fhyq-dhy.cloud/index.php/tg_bot/44.html).~~ **NOT FINISHED YET.**  
+ If any volunteer wants to offer a README in Chinese, please create a `pull request`.
  
  
 ### Usage
