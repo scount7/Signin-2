@@ -8,6 +8,6 @@ def notice():
         res = f.read()
     myBot = Updater(TOKEN)
     myBot.bot.send_message(
-        chat_id = CHAT_ID,
+        chat_id = int(CHAT_ID),
         text = res
     )
