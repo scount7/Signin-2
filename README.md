@@ -4,7 +4,7 @@
  
  For a README in Chinese, [click here](https://github.com/FHYQ-Dong/GLaDOS-Bot-Action-with-Telegram-Notice/blob/main/README_CN.md). 
  
- Thanks [@GithubGaoyang](https://github.com/GithubGaoYang) for Chinese version.
+ Thanks [@GithubGaoYang](https://github.com/GithubGaoYang) for Chinese version.
  
 ### Usage
 #### Preparation  
