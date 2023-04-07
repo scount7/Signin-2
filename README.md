@@ -3,8 +3,6 @@
  A Github Action that can help you sign in GlaDOS automatically with telegram notice.  
  
  For a README in Chinese, [click here](https://github.com/FHYQ-Dong/GLaDOS-Bot-Action-with-Telegram-Notice/blob/main/README_CN.md). 
- If any volunteer wants to offer a README in Chinese, please create a `pull request`.
- 
  
 ### Usage
 #### Preparation  
@@ -69,3 +67,9 @@
  - And the Action will always run at 9:30 a.m.(GMT+8:00) automatically.  
  
  ![13](https://user-images.githubusercontent.com/87631978/230326733-2c9cdc45-f6a1-4c40-bf25-e3d1d90fd42c.jpg)
+ 
+ 
+ ### Contributors
+<a href="https://github.com/FHYQ-Dong/GLaDOS-Bot-Action-with-Telegram-Notice/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FHYQ-Dong/GLaDOS-Bot-Action-with-Telegram-Notice" />
+</a>
