@@ -5,6 +5,7 @@ on:
   # push:
   schedule:
     - cron: '1 1,4 * * *'
+    - cron: '30 10 * * *'
 
 jobs:
   bot:
