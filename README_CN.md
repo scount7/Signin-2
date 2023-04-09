@@ -61,7 +61,7 @@
 ### 操作
 
 - 您可以通过在“Action”页面上按“Run Workflow”按钮手动运行此 Github Action。
-- 此操作将每天自动在北京时间早上 9:20 与中午12:20 运行。
+- 此操作将每天自动在北京时间中午 12:20 与晚上 18:20 运行。
 
 ![13](https://user-images.githubusercontent.com/87631978/230326733-2c9cdc45-f6a1-4c40-bf25-e3d1d90fd42c.jpg)
 
