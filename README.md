@@ -66,7 +66,7 @@
 
 ### Action
  - You can run this Github Action manually by pressing `Run Workflow` button on `Action` page.
- - And the Action will always run at 9:20 a.m. and 12:20 p.m.(GMT+8:00) automatically.  
+ - And the Action will always run at 12:20 p.m. and 18:20 p.m.(GMT+8:00) automatically.  
  
  ![13](https://user-images.githubusercontent.com/87631978/230326733-2c9cdc45-f6a1-4c40-bf25-e3d1d90fd42c.jpg)
  
