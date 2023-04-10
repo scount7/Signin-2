@@ -1,5 +1,7 @@
 # GLaDOS-Bot-Action-with-Telegram-Notice
 
+[English](https://github.com/FHYQ-Dong/GLaDOS-Bot-Action-with-Telegram-Notice/blob/main/README.md) | 简体中文
+
 一个可以帮助您通过 Telegram 通知自动签到 GLaDOS 的 Github Action。
 
 ### 使用方法
