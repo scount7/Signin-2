@@ -25,7 +25,7 @@ def signin(cookie):
     # 请求负载
     payload = {
         # 'token': 'glados_network'
-        'token': 'glados.network'
+        'token': 'glados.one'
     }
     # referer 当浏览器向web服务器发送请求的时候，一般会带上Referer，告诉服务器我是从哪个页面链接过来的，服务器 籍此可以获得一些信息用于处理。
     # json.dumps请求序列化
