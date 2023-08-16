@@ -133,3 +133,6 @@ dmypy.json
 
 # signin result
 result.txt
+
+# Secrets
+SECRETS
