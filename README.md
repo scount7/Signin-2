@@ -1,6 +1,6 @@
 # GLaDOS-Bot-Action-with-Telegram-Notice
 
- English | [简体中文](./README_CN.md)
+
 
  A Github Action that can help you sign in GlaDOS automatically with telegram notice.
 
